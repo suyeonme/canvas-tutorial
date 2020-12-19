@@ -1,5 +1,5 @@
 body {
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: 'Courier New', Courier, monospace;
   background-color: grey;
   text-align: center;
   color: white;
@@ -8,4 +8,8 @@ body {
 #canvas {
   background-color: #ffffff;
   border-radius: 7px;
+}
+
+#source {
+  display: none;
 }
